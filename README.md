@@ -51,10 +51,10 @@ ___
 #### **`from AMD import *`** statement is used to import all available functions from Arduino_Master. This version contains the following functions which we'll be discussing shortly. These functions can be  grouped into 3 categories:
 ___
 ### [>> For Extracting and Writing data to Arduino:](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/Arduino_Data_Extraction_Functions.md)
-#### [$ ardata]()
-#### [$ readSerial]()
-#### [$ writeSerial]()
-#### [$ dynamicSerial]()
+#### [$ ardata](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/ardata().md)
+#### [$ readSerial](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/readSerial.md)
+#### [$ writeSerial](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/writeSerial.md)
+#### [$ dynamicSerial](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/dynamicSerial.md)
 ___
 ### [>> Data Science enabled functions for filtering and visualizing Data:]()
 #### [$ hybridize]()
