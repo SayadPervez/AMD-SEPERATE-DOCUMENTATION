@@ -67,7 +67,6 @@ ___
 #### [$ least_frequent](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataScience/least_frequent.md)
 #### [$ compress](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataScience/compress.md)
 #### [$ filter](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataScience/filter.md)
-#### [>> Data Science functions From Version 1.4 and higher !]()
 #### [$ densePop]()
 #### [$ scarcePop]()
 #### [$ remImp]()
