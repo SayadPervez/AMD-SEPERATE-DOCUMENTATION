@@ -14,3 +14,8 @@ ___
 #### returns a element (if available within timeout !). numeric is set to False for readSerial.
 ___
 ___
+![Mr_Handsome](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/IMG_20190225_150001_460.jpg?raw=true)
+### Sayad Pervez - the solo developer of AMD Module !
+### E-Mail : [pervez2504@gmail.com](pervez2504@gmail.com)
+___
+___
