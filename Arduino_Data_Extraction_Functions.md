@@ -3,10 +3,10 @@
 #### As the name implies, this module can also be used to communicate, automate and extract data from an Arduino !! The following functions are used to extract data from Arduino:
 
 
-### [ardata()]()
-### [readSerial()]()
-### [writeSerial()]()
-### [dynamicSerial()]()
+### [ardata()](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/ardata().md)
+### [readSerial()](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/readSerial.md)
+### [writeSerial()](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/writeSerial.md)
+### [dynamicSerial()](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/dynamicSerial.md)
 
 #### However this module requires pyserial module to operate. If not already installed, AMD module would automatically install the required modules. If still an error persists, check your internet connection or try installing it manually.
 ___
