@@ -50,7 +50,7 @@ ___
 # Importing Functions:
 #### **`from AMD import *`** statement is used to import all available functions from Arduino_Master. This version contains the following functions which we'll be discussing shortly. These functions can be  grouped into 3 categories:
 ___
-### [>> For Extracting and Writing data to Arduino:]()
+### [>> For Extracting and Writing data to Arduino:](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/Arduino_Data_Extraction_Functions.md)
 #### [$ ardata]()
 #### [$ readSerial]()
 #### [$ writeSerial]()
