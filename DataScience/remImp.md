@@ -5,7 +5,7 @@ ___
 # remImp():- **`Returns a Hybrid`**
 #### This function takes a hybrid and removes impulses almost in the same manner as densePop did !
 #### This function is an alias for densePop.
-#### Link for [densePop()]()
+#### Link for [densePop()](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataScience/densePop.md)
 ___
 ___
 ![Mr_Handsome](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/IMG_20190225_150001_460.jpg?raw=true)
