@@ -78,6 +78,7 @@ ___
 #### [$ visualizeSmoothie](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataScience/visualizeSmoothie.md)
 ___
 ### [ >> Data storage and extraction functions for AMD known as AMD CDB which stands for 'AMD Custom DataBase': ]()
+#### [Intro to AMD CDB](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataBase/AMD%20Custom%20DataBase%20Methods.md)
 #### [save](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataBase/save.md)
 #### [appendSave](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataBase/appendSave.md)
 #### [rewriteSave](https://github.com/SayadPervez/AMD-SEPERATE-DOCUMENTATION/blob/master/DataBase/rewriteSave.md)
