@@ -2,7 +2,7 @@
 ## AMD CDB Function: extractX()
 ___
 ___
-# extractX():- **`Returns Hybrid.`**
+# extractX():- **`Returns a List.`**
 #### extracts X values from a AMD CDB.
 #### **`extractX(name,path=None)`** is the function header.
 #### **`name`** parameter takes a string. Pass the name of the pre-existing AMD CDB file you want to extract Data from.
