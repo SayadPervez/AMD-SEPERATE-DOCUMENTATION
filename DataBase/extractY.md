@@ -2,7 +2,7 @@
 ## AMD CDB Function: extractY()
 ___
 ___
-# extractY():- **`Returns Hybrid.`**
+# extractY():- **`Returns a List.`**
 #### extracts Y values from a AMD CDB.
 #### **`extractY(name,path=None)`** is the function header.
 #### **`name`** parameter takes a string. Pass the name of the pre-existing AMD CDB file you want to extract Data from.
